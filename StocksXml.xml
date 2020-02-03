@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Stocks>
+    <stock>
+        <itemCode>12</itemCode>
+        <itemName>sadsa</itemName>
+        <price>232</price>
+        <description>DADA</description>
+    </stock>
+    <stock>
+        <itemCode>1XAS</itemCode>
+        <itemName>pen</itemName>
+        <price>2313</price>
+        <description>dlahdiulah</description>
+    </stock>
+    <stock>
+        <itemCode>32131231</itemCode>
+        <itemName>efweaaf</itemName>
+        <price>42</price>
+        <description>dasd</description>
+    </stock>
+    <stock>
+        <itemCode>2</itemCode>
+        <itemName>pen</itemName>
+        <price>342</price>
+        <description>sdfds</description>
+    </stock>
+    <stock>
+        <itemCode>UASUKHLDASKSHKUALDH</itemCode>
+        <itemName>pen</itemName>
+        <price>4652742</price>
+        <description>ksudiwqu</description>
+    </stock>
+    <stock>
+        <itemCode>234</itemCode>
+        <itemName>new one</itemName>
+        <price>42342</price>
+        <description>iwdjw</description>
+    </stock>
+    <stock>
+        <itemCode>1</itemCode>
+        <itemName>sdad</itemName>
+        <price>232</price>
+        <description>dad</description>
+    </stock>
+</Stocks>

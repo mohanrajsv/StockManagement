@@ -1,0 +1,14 @@
+Feb 03, 2020 5:45:23 PM com.mohan.util.ProcessByMemory addStock
+INFO: D is added to the inventory
+Feb 03, 2020 5:47:31 PM com.mohan.util.ProcessByMemory addStock
+INFO: new one is added to the inventory
+Feb 03, 2020 5:47:51 PM com.mohan.util.ProcessByMemory updateStock
+WARNING: af is not found in our inventory.!
+Feb 03, 2020 5:56:23 PM com.mohan.util.ProcessByMemory addStock
+INFO: sadsa is added to the inventory
+Feb 03, 2020 6:13:50 PM com.mohan.util.ProcessByMemory addStock
+INFO: da is added to the inventory
+Feb 03, 2020 6:41:04 PM com.mohan.util.ProcessByMemory deleteStock
+WARNING: 213 is not found in our inventory.!
+Feb 03, 2020 6:44:11 PM com.mohan.util.ProcessByMemory addStock
+INFO: dasda is added to the inventory

@@ -1,0 +1,4 @@
+Feb 03, 2020 5:48:21 PM com.mohan.util.ProcessByXml addStock
+INFO: efweaaf is added to the inventory
+Feb 03, 2020 5:56:35 PM com.mohan.util.ProcessByXml updateStock
+WARNING: 3123 is not found in our inventory.!
